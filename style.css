@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: #999999;
+}  
+
+.sform{
+    background-color: #b3b3b3;
+    border-radius: 10px;
+    padding: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#lform{
+    padding-right: 50px;
+}
+
+.btn{
+    margin-left:55px;
+    border-radius: 50px;
+    border-style: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.btn-1{
+    margin-left:55px;
+    border-radius: 50px;
+    border-style: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.already{
+    font-size: small;
+    margin-left: 32px;
+    color: black;
+}
+
+.inp{
+    border-radius: 50px;
+    border-style: none;
+    padding: 6px;
+    padding-left: 12px;
+}
+
